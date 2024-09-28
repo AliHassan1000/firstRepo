@@ -174,3 +174,5 @@ print(z)
 # 13- Install extensions
 
 sample Text
+
+we are in git 101 section
